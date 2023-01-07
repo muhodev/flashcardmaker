@@ -14,8 +14,8 @@ Online flashcard maker project
 
 - [x] Create next.js project and install chakraui, tailwindcss
 - [x] Start to create web pages
-- [ ] Code authentication ui
-- [ ] Implement firebase authentication
+- [x] Code authentication ui
+- [x] Implement firebase authentication
 - [ ] Connect mongodb and create first endpoint
 - [ ] Create new flashcard modal
 - [ ] List user's flashcards
