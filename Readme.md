@@ -13,7 +13,7 @@ Online flashcard maker project
 ## TODOS for MVP version:
 
 - [x] Create next.js project and install chakraui, tailwindcss
-- [ ] Start to create web pages
+- [x] Start to create web pages
 - [ ] Code authentication ui
 - [ ] Implement firebase authentication
 - [ ] Connect mongodb and create first endpoint
