@@ -5,13 +5,14 @@ Online flashcard maker project
 ## Tech Stack
 
 **WEB:**
+- Typescript
 - Next.js
 - Mongodb
 - Firebase for authentication
 
-## TODOS:
+## TODOS for MVP version:
 
-- [ ] Create next.js project and install chakraui, tailwindcss
+- [x] Create next.js project and install chakraui, tailwindcss
 - [ ] Start to create web pages
 - [ ] Code authentication ui
 - [ ] Implement firebase authentication
